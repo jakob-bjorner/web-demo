@@ -1,6 +1,6 @@
 {
-  "name": "jakob-bjorner.github.io",
-  "homepage": "https://jakob-bjorner.github.io/",
+  "name": "web-demo",
+  "homepage": "https://jakob-bjorner.github.io/web-demo",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
